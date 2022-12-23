@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  min-width: 300px;
+}
+
+.btn {
+  padding: 5px 15px;
+  background-color: #ff8400;
+  border: none;
+  border-radius: 5px;
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ff6200;
+}
